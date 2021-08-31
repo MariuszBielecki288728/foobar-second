@@ -1,0 +1,1 @@
+foobar-first @ git+https://github.com/MariuszBielecki288728/foobar-first.git@main#egg=foobar-first
